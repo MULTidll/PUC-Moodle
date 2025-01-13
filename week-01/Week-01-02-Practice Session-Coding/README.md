@@ -77,6 +77,10 @@ T
 
 6
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165832.png>)
+
 # Objective 2
 
 Some C data types, their format specifiers, and their most common bit widths are as follows:
@@ -157,6 +161,10 @@ followed by float 334.23,
 
 followed by double 14049.30493.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165852.png>)
+
 
 # Objective 3
 
@@ -179,3 +187,7 @@ Output
 69
 
 D F
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165907.png>)

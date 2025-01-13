@@ -58,6 +58,10 @@ Explanation:
 
 The numbers meeting the criteria are 5, 15, 25, 35, 45.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170411.png>)
+
 # Objective 2
 
 Given a number N, return true if and only if it is a confusing number, which satisfies the following condition:
@@ -116,6 +120,10 @@ Note:
 1.      0 <= N <= 10^9
 
 2.      After the rotation we can ignore leading zeros, for example if after rotation we have 0008 then this number is considered as just 8.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170418.png>)
 
 # Objective 3
 
@@ -267,3 +275,7 @@ Explanation 2
  
 
 2 + 3 = 5, is the best case for maximum nutrients.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170425.png>)

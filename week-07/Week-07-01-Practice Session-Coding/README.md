@@ -113,6 +113,10 @@ Sunny and Johnny make the following two trips to the parlor:
 
 2.      The second time, they pool together m = 4 dollars. TOf the four flavors available that day, flavors 1 and 2 have a total cost of 2 + 2 = 4.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170729.png>)
+
 # Objective 2
 
 Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?
@@ -216,6 +220,10 @@ Explanation
  
 
 204 is present in both arrays. Its frequency in arr is 2, while its frequency in brr is 3. Similarly, 205 and 206 occur twice in arr, but three times in brr. The rest of the numbers have the same frequencies in both lists.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170735.png>)
 
 # Objective 3
 
@@ -350,3 +358,7 @@ In the first test case, arr[2] = 4 is between two subarrays summing to 2.
 In the second case, arr[0] = 2 is between two subarrays summing to 0.
 
 In the third case, arr[2] = 2 is between two subarrays summing to 0.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170741.png>)

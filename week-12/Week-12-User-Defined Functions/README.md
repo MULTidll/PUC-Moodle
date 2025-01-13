@@ -124,6 +124,9 @@ Explanation 1
 
 ·         The value of the 4th index from the right in the binary representation is 1.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171041.png>)
 
 # Objective 2
 
@@ -286,3 +289,7 @@ Explanation 2
  
 
 Factoring n = 1 results in {1}. The p = 1st factor of 1 is returned as the answer.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171046.png>)

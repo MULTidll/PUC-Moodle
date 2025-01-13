@@ -34,6 +34,10 @@ Sample Output 1
 
 170
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170259.png>)
+
 # Objective 2
 
 Suppandi is trying to take part in the local village math quiz. In the first round, he is asked about shapes and areas. Suppandi, is confused, he was never any good at math. And also, he is bad at remembering the names of shapes. Instead, you will be helping him calculate the area of shapes.
@@ -193,6 +197,10 @@ Explanation:
 
 ·         Finally, something random, so we print 0
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170305.png>)
+
 # Objective 3
 
 Superman is planning a journey to his home planet. It is very important for him to know which day he arrives there. They don't follow the 7-day week like us. Instead, they follow a 10-day week with the following days: Day Number Name of Day 1 Sunday 2 Monday 3 Tuesday 4 Wednesday 5 Thursday 6 Friday 7 Saturday 8 Kryptonday 9 Coluday 10 Daxamday Here are the rules of the calendar: • The calendar starts with Sunday always. • It has only 296 days. After the 296th day, it goes back to Sunday. You begin your journey on a Sunday and will reach after n. You have to tell on which day you will arrive when you reach there.
@@ -216,3 +224,7 @@ Example Input
  1
 
  Example Output Monday
+
+ Test Case:
+
+![alt text](<Screenshot 2025-01-13 170310.png>)

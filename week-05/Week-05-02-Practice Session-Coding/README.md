@@ -90,9 +90,32 @@ Note:
 
 1 <= N <= 10^8
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170504.png>)
+
 # Objective 2
 
-textTake a number, reverse it and add it to the original number until the obtained number is a palindrome. Constraints 1<=num<=99999999 Sample Input 1 32 Sample Output 1 55 Sample Input 2 789 Sample Output 2 66066
+textTake a number, reverse it and add it to the original number until the obtained number is a palindrome. Constraints 1<=num<=99999999 
+Sample Input 1
+
+32 
+
+Sample Output 1
+
+55 
+
+Sample Input 2 
+
+789 
+
+Sample Output 2 
+
+66066
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170509.png>)
 
 # Objective 3
 
@@ -141,3 +164,7 @@ Sample Output 2:
  
 
 33344
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170514.png>)

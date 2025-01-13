@@ -54,6 +54,10 @@ BWBWB
 
 WBWBW
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170442.png>)
+
 # Objective 2
 
 Let’s print a chessboard!
@@ -107,6 +111,10 @@ BWB
 WBW
 
 BWB
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170449.png>)
 
 # Objective 3
 
@@ -219,3 +227,7 @@ Case #3
 ******13014017018
 
 ********15016
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170455.png>)

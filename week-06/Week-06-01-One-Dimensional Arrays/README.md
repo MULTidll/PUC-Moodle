@@ -24,7 +24,11 @@ Sample Input 1
 
 Sample Output 1
 
-5 5 5 8 8 9 
+5 5 5 8 8 9
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170632.png>)
 
 # Objective 2
 
@@ -76,6 +80,10 @@ Sample Output 1
 
 17 
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170639.png>)
+
 # Objective 3
 
 Output is a merged array without duplicates.
@@ -109,3 +117,7 @@ Sample Input 1
 Sample Output 1
 
 1 2 3 4 5 6 9 10 
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170655.png>)

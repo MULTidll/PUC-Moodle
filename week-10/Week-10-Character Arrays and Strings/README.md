@@ -62,6 +62,10 @@ In the given string:
 
 The remaining digits 0, 3, 8 and 9 don't occur at all.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170924.png>)
+
 # Objective 2
 
 Today, Monk went for a walk in a garden. There are many trees in the garden and each tree has an English alphabet on it. While Monk was walking, he noticed that all trees with vowels on it are not in good state. He decided to take care of them. So, he asked you to tell him the count of such trees in the garden.
@@ -124,6 +128,10 @@ Explanation
 
 In test case 1, a and o are the only vowels. So, count=2
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170930.png>)
+
 # Objective 3
 
 Given a sentence, s, print each word of the sentence in a new line.
@@ -179,6 +187,10 @@ Explanation 0
  
 
 In the given string, there are three words ["This", "is", "C"]. We have to print each of these words in a new line.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170936.png>)
 
 # Objective 4
 
@@ -241,3 +253,7 @@ a + b = "abcdef"
 a' = "ebcd"
 
 b' = "af"
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170941.png>)

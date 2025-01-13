@@ -33,6 +33,10 @@ Sample Output
 
 Hello, World!
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165722.png>)
+
 # Objective 2
 
 Objective
@@ -80,6 +84,10 @@ Output Format
  
 
 Print the character, ch.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165741.png>)
 
 # Objective 3
 
@@ -182,3 +190,7 @@ When we sum the integers 10 and 4, we get the integer 14. When we subtract the s
 
 
 When we sum the floating-point numbers 4.0 and 2.0, we get 6.0. When we subtract the second number 2.0 from the first number 4.0, we get 2.0 as their difference.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165805.png>)

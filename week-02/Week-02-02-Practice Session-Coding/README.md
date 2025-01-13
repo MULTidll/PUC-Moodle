@@ -36,6 +36,10 @@ SAMPLE INPUT 2
 
 NO
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170141.png>)
+
 # Objective 2
 
 Before the outbreak of corona virus to the world, a meeting happened in a room in Wuhan. A person who attended that meeting had COVID-19 and no one in the room knew about it! So everyone started shaking hands with everyone else in the room as a gesture of respect and after meeting unfortunately everyone got infected! Given the fact that any two persons shake hand exactly once, Can you tell the total count of handshakes happened in that meeting? Say no to shakehands. Regularly wash your hands. Stay Safe.
@@ -69,6 +73,10 @@ SAMPLE OUTPUT 2
 1
 
 Explanation Case 1: The lonely board member shakes no hands, hence 0. Case 2: There are 2 board members, 1 handshake takes place.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170148.png>)
 
 # Objective 3
 
@@ -109,3 +117,7 @@ SAMPLE OUTPUT
  8
 
 Explanation Out of given numbers, 8 is maximum.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170153.png>)

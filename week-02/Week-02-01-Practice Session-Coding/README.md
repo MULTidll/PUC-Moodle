@@ -27,6 +27,10 @@ Sample Output 1
 
  167.64
 
+ Test Case:
+
+![alt text](<Screenshot 2025-01-13 165944.png>)
+
 # Objective 2
 
 Create a program that reads two integers, a and b, from the user. Your program should compute and display: • The sum of a and b • The difference when b is subtracted from a • The product of a and b • The quotient when a is divided by b • The remainder when a is divided by b
@@ -56,6 +60,10 @@ Input 1 100 6
 Sample Output
 
 106 94 600 16 4
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 165956.png>)
 
 # Objective 3
 
@@ -87,3 +95,6 @@ Discount: 20.94
 
 Total: 13.96
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170113.png>)

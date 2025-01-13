@@ -66,6 +66,10 @@ Output:
 
 0
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170607.png>)
+
 # Objective 2
 
 Sam loves chocolates and starts buying them on the 1st day of the year. Each day of the year, x, is numbered from 1 to Y. On days when x is odd, Sam will buy x chocolates; on days when x is even, Sam will not purchase any chocolates.
@@ -159,6 +163,10 @@ Sam buys 1 chocolate on day 1 and 0 on day 2. This gives us a total of 1 chocola
 Test Case 2: N = 3
 
 Sam buys 1 chocolate on day 1, 0 on day 2, and 3 on day 3. This gives us a total of 4 chocolates. Thus, we print 4 on a new line.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170616.png>)
 
 # Objective 3
 
@@ -344,3 +352,6 @@ We are given, n = 5, nums = [2, 10, 5, 4, 8], m = 4, and maxes = [3, 1, 7, 8].
 
 Thus, the function returns the array [1, 0, 3, 4] as the answer.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170623.png>)

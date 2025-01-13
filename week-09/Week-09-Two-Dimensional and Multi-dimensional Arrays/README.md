@@ -41,6 +41,10 @@ SAMPLE OUTPUT
 
 20
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170853.png>)
+
 # Objective 2
 
 Microsoft has come to hire interns from your college. N students got shortlisted out of which few were males and a few females. All the students have been assigned talent levels. Smaller the talent level, lesser is your chance to be selected. Microsoft wants to create the result list where it wants the candidates sorted according to their talent levels, but there is a catch. This time Microsoft wants to hire female candidates first and then male candidates.
@@ -110,6 +114,10 @@ SAMPLE OUTPUT
  
 
 7 3 2 15 6
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170908.png>)
 
 # Objective 3
 
@@ -202,3 +210,7 @@ Farmer with land area C:    C3 = 6 * 3 = 18
  
 
 Total Compensation Money = C1 + C2 + C3 = 5 + 12 + 18 = 35
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170915.png>)

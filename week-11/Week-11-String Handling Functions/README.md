@@ -64,6 +64,10 @@ Explanation
 
 The string abaca can be converted to bcbda in one move and to cdbda in the next move.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170954.png>)
+
 # Objective 2
 
 Danny has a possible list of passwords of Manny's facebook account. All passwords length is odd. But Danny knows that Manny is a big fan of palindromes. So, his password and reverse of his password both should be in the list.
@@ -125,6 +129,10 @@ SAMPLE OUTPUT
  
 
 3 b
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170959.png>)
 
 # Objective 3
 
@@ -196,6 +204,10 @@ Explanation
 
 Dominos has maximum points.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171003.png>)
+
 # Objective 4
 
 These days Bechan Chacha is depressed because his crush gave him list of mobile number some of them are valid and some of them are invalid. Bechan Chacha has special power that he can pick his crush number only if he has valid set of mobile numbers. Help him to determine the valid numbers.
@@ -259,3 +271,7 @@ YES
 NO
 
 NO
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171021.png>)

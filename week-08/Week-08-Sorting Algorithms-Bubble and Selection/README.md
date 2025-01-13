@@ -72,7 +72,9 @@ Minimum sum using the 4 elements would be (1+2+3+4=)10.
 
 Difference will be 14-10=4.
 
+Test Case:
 
+![alt text](<Screenshot 2025-01-13 170748.png>)
 
 # Objective 2
 
@@ -125,6 +127,10 @@ SAMPLE OUTPUT
  
 
 No
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170753.png>)
 
 # Objective 3
 
@@ -183,3 +189,7 @@ Explanation
  
 
 The 2 pair of indices are (1, 3) and (2,5).
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170759.png>)

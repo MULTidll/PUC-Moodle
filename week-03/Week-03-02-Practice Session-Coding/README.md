@@ -50,6 +50,10 @@ Sample Output 3
 
 The number of sides is not supported.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170238.png>)
+
 # Objective 2
 
 The Chinese zodiac assigns animals to years in a 12-year cycle. One 12-year cycle is shown in the table below. The pattern repeats from there, with 2012 being another year of the Dragon, and 1999 being another year of the Hare.
@@ -120,6 +124,10 @@ Sample Output 2
 
 Tiger
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170244.png>)
+
 # Objective 3
 
 Write a program that reads a position from the user. Use an if statement to determine if the column begins with a black square or a white square. Then use modular arithmetic to report the color of the square in that row. For example, if the user enters a1 then your program should report that the square is black. If the user enters d5 then your program should report that the square is white. Your program may assume that a valid position will always be entered. It does not need to perform any error checking.
@@ -155,3 +163,7 @@ Sample Output 2
  
 
 The square is white.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170250.png>)

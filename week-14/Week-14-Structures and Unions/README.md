@@ -76,6 +76,10 @@ The second box is sufficiently low, its volume is 1 x 2 x 4= = 80.
 
 The third box is exactly 41 feet tall, so it cannot pass. The same can be said about the fourth box.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171134.png>)
+
 # Objective 2
 
 You are given n triangles, specifically, their sides ai, bi and ci. Print them in the same style but sorted by their areas from the smallest one to the largest one. It is guaranteed that all the areas are different.
@@ -149,3 +153,7 @@ Explanation 0
  
 
 The square of the first triangle is 84. The square of the second triangle is 30. The square of the third triangle is 6. So the sorted order is the reverse one.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171140.png>)

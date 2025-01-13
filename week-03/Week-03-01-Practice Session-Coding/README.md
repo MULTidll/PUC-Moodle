@@ -2,6 +2,10 @@
 
 Write a program to read two integer values and print true if both the numbers end with the same digit, otherwise print false. Example: If 698 and 768 are given, program should print true as they both end with 8. Sample Input 1 25 53 Sample Output 1 false Sample Input 2 27 77 Sample Output 2 true
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170217.png>)
+
 # Objective 2
 
 Objective 
@@ -102,6 +106,14 @@ Sample Case 1:  n = 24
 
 n > 20 and n is even, so it isn't weird. Thus, we print Not Weird.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170223.png>)
+
 # Objective 3
 
 Three numbers form a Pythagorean triple if the sum of squares of two numbers is equal to the square of the third. For example, 3, 5 and 4 form a Pythagorean triple, since 3*3 + 4*4 = 25 = 5*5 You are given three integers, a, b, and c. They need not be given in increasing order. If they form a Pythagorean triple, then print "yes", otherwise, print "no". Please note that the output message is in small letters. Sample Input 1 3 5 4 Sample Output 1 yes Sample Input 2 5 8 2 Sample Output 2 no
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170227.png>)

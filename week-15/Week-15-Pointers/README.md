@@ -92,6 +92,10 @@ Explanation
 
 The input array is [17, 10, 21, 45], so the reverse of the input array is [45, 21, 10, 17].
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171153.png>)
+
 # Objective 2
 
 An automated cutting machine is used to cut rods into segments. The cutting machine can only hold a rod of minLength or more, and it can only make one cut at a time. Given the array lengths[] representing the desired lengths of each segment, determine if it is possible to make the necessary cuts using this machine. The rod is marked into lengths already, in the order given.
@@ -260,3 +264,7 @@ Explanation
  
 
 The uncut rod is 5 + 6 + 2 = 13 units long. After making either cut, the rod will be too short to make the second cut.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171159.png>)

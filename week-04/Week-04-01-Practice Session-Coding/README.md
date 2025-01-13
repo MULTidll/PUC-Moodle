@@ -60,6 +60,9 @@ Yes
 
 No
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170352.png>)
 
 # Objective 2
 
@@ -152,6 +155,10 @@ Explanation
  
 
 Add the holes count for each digit, 1, 2, 8, 8. Return 0 + 0 + 2 + 2 = 4.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170357.png>)
 
 # Objective 3
 
@@ -257,3 +264,7 @@ According to Manish {$1, $2, $3, $4, $5} must be distributed.
  
 
 But as per Manisha only {$1, $2, $3} coins are enough to purchase any item ranging from $1 to $5. Hence minimum is 3. Likewise, denominations could also be {$1, $2, $4}. Hence answer is still 3.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170402.png>)

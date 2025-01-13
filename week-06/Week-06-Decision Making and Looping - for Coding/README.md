@@ -48,6 +48,10 @@ Sample Output
 
 2 x 10 = 20
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170537.png>)
+
 # Objective 2
 
 A nutritionist is labeling all the best power foods in the market. Every food item arranged in a single line, will have a value beginning from 1 and increasing by 1 for each, until all items have a value associated with them. An item's value is the same as the number of macronutrients it has. For example, food item with value 1 has 1 macronutrient, food item with value 2 has 2 macronutrients, and incrementing in this fashion.
@@ -199,6 +203,10 @@ Explanation 2
 
 2 + 3 = 5, is the best case for maximum nutrients.
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170545.png>)
+
 # Objective 3
 
 Determine all positive integer values that evenly divide into a number, its factors. Return the pth element of your list, sorted ascending. If there is no pth element, return 0.
@@ -316,3 +324,7 @@ Explanation 2
  
 
 Factoring n = 1 we get {1}. We then return the p = 1st factor as our answer.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 170550.png>)

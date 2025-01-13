@@ -60,6 +60,10 @@ SAMPLE OUTPUT
 
 0
 
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171059.png>)
+
 # Objective 2
 
 Find the number of ways that a given integer, X, can be expressed as the sum of the Nth powers of unique, natural numbers.
@@ -202,3 +206,7 @@ Explanation 2
 100 can be expressed as the sum of the cubes of 1, 2, 3, 4.
 
 (1 + 8 + 27 + 64 = 100). There is no other way to express 100 as the sum of cubes.
+
+Test Case:
+
+![alt text](<Screenshot 2025-01-13 171104.png>)
